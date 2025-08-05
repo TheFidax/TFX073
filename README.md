@@ -78,8 +78,6 @@ Il progetto di questa scheda e' disponibile qui: https://workspace.circuitmaker.
 **Viene rilasciato con la seguente Licenza**: https://creativecommons.org/licenses/by-nc-nd/4.0/ .</br>
 I **File Gerber**, il **BOM** e il file **Pick and Place** sono nel file **.Zip** disponibile sotto la cartella [HardWare](https://github.com/TheFidax/TFX073/tree/main/HardWare).</br> 
 
-**NOTA**: Lo spessore *consigliato* del PCB per questa scheda è di: **1.00mm**
-
 ------------
 
 ## Caratteristiche della Scheda
