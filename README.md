@@ -245,4 +245,4 @@ Instagram ➡ https://www.instagram.com/the_fidax_modellismo/</br>
 TrenoInCasa ➡ https://trenoincasa.forumfree.it/?act=Profile&MID=12548949</br>
 DccWorld ➡ https://dccworld.it/forum/memberlist.php?mode=viewprofile&u=5703&sid=e77894699c7ea1ac65586ba7cbad826c</br>
 
-Alcuni pezzi in esubero possono anche essere trovati sul mio profilo **Ebay***: https://www.ebay.it/sch/the_fidax/m.html</br>
+Alcuni pezzi in esubero possono anche essere trovati sul mio profilo **Ebay**: https://www.ebay.it/sch/the_fidax/m.html</br>
