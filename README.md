@@ -25,7 +25,7 @@ E' stata progettata espressamente sugli ingombri strutturali della carrozza per 
 * [FirmWare](#firmware)
 * [HardWare](#hardware)
 * [Caratteristiche della Scheda](#caratteristiche-della-scheda)
-* [Contattami](#Contattami)
+* [Contattami](#📱-[Contatti-&-Social]-📱)
 
 ------------
 
@@ -238,11 +238,11 @@ Per garantire la massima personalizzazione, e' presente anche **una porta SUSI**
 
 ------------
 
-## Contattami
-Per curiosita' o ulteriori informazioni puoi contattarmi tramite i seguenti canali!
-Instagram ➡ https://www.instagram.com/the_fidax_modellismo/
-3rotaie.eu ➡ https://www.3rotaie.eu/forum/memberlist.php?mode=viewprofile&u=1560
-TrenoInCasa ➡ https://trenoincasa.forumfree.it/?act=Profile&MID=12548949
-DccWorld ➡ https://dccworld.it/forum/memberlist.php?mode=viewprofile&u=5703&sid=e77894699c7ea1ac65586ba7cbad826c
+## 📱 [Contatti & Social] 📱
+Per curiosita' o ulteriori informazioni puoi contattarmi tramite i seguenti canali!</br>
+Instagram ➡ https://www.instagram.com/the_fidax_modellismo/</br>
+3rotaie.eu ➡ https://www.3rotaie.eu/forum/memberlist.php?mode=viewprofile&u=1560</br>
+TrenoInCasa ➡ https://trenoincasa.forumfree.it/?act=Profile&MID=12548949</br>
+DccWorld ➡ https://dccworld.it/forum/memberlist.php?mode=viewprofile&u=5703&sid=e77894699c7ea1ac65586ba7cbad826c</br>
 
 Alcuni pezzi in esubero possono anche essere trovati sul mio profilo **Ebay***: https://www.ebay.it/sch/the_fidax/m.html</br>
