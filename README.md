@@ -25,7 +25,7 @@ E' stata progettata espressamente sugli ingombri strutturali della carrozza per 
 * [FirmWare](#firmware)
 * [HardWare](#hardware)
 * [Caratteristiche della Scheda](#caratteristiche-della-scheda)
-* [Contattami](#📱-[Contatti-&-Social]-📱)
+* [Contatti & Social](#Contatti-&-Social)
 
 ------------
 
@@ -238,7 +238,7 @@ Per garantire la massima personalizzazione, e' presente anche **una porta SUSI**
 
 ------------
 
-## 📱 [Contatti & Social] 📱
+## Contatti & Social
 Per curiosita' o ulteriori informazioni puoi contattarmi tramite i seguenti canali!</br>
 Instagram ➡ https://www.instagram.com/the_fidax_modellismo/</br>
 3rotaie.eu ➡ https://www.3rotaie.eu/forum/memberlist.php?mode=viewprofile&u=1560</br>
